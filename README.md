@@ -60,7 +60,7 @@ This project focuses on building a **Sales Performance Dashboard for Blinkit (an
 
 ## 📎 Link to Dashboard or Code
 
-> 🔗 
+> 🔗 https://github.com/HimaniLohia/Sales_Performance_Dashboard
 ---
 
 ## 📩 Contact
